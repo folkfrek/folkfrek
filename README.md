@@ -7,7 +7,7 @@ func main() {
     myBio := Bio{
         name: "Kyle",
         pastEducation: "BA in Economics from Stony Brook University",
-        currentEducation: "BS in Computer Science from Oregon State",
+        currentEducation: "Pursuing a BS in Computer Science from Oregon State",
         graduation: "June 2023",
         goal: "Seeking fulltime software engineer roles - willing to start before graduation date",
         skills: "Go, Python, JavaScript, React, Flask",

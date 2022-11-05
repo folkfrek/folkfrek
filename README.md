@@ -18,7 +18,7 @@ func main() {
 
 ## Some stuff I'm working on!
 
--  I’m learning **Go(Golang), Terraform, Docker , and SQL** this fall semester
+-  I’m learning **Go(Golang), Docker, and SQL** this fall semester
 
 - 📝 Some of my projects are available [here](https://github.com/folkfrek?tab=repositories)
 

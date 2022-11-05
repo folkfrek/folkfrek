@@ -11,7 +11,7 @@ func main() {
         graduation: "June 2023",
         goal: "Seeking fulltime software engineer roles - willing to start before graduation date",
         skills: "Go, Python, JavaScript, React, Flask",
-        hobbies: "Brazilian Jiu Jitsu, Wresting, Volunteering"
+        hobbies: "Brazilian Jiu Jitsu, Wrestling, Volunteering"
 }
 ```
 

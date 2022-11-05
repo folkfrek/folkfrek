@@ -9,7 +9,7 @@ func main() {
         pastEducation: "BA in Economics from Stony Brook University",
         currentEducation: "Pursuing a BS in Computer Science from Oregon State",
         graduationDate: "June 2023",
-        goal: "Seeking fulltime software engineer roles - willing to start before graduation date",
+        seeking: "Fulltime software engineer roles - willing to start before graduation date",
         skills: "Go, Python, JavaScript, React, Flask",
         hobbies: "Brazilian Jiu Jitsu, Wrestling, Volunteering"
 }

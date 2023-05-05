@@ -10,7 +10,7 @@ func main() {
         currentEducation: "Pursuing a BS in Computer Science from Oregon State",
         graduationDate: "June 2023",
         seeking: "Fulltime software engineer roles - willing to start before graduation date",
-        skills: "BrightScript, SceneGraph, Go, Python, JavaScript, React, Flask",
+        skills: "Python, JavaScript, Kotlin, SQL, React, Flask",
         hobbies: "Brazilian Jiu Jitsu, Wrestling, Volunteering"
 }
 ```

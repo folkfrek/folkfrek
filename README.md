@@ -1,17 +1,18 @@
 # Hellloooo, folks! I'm Kyle 👋
 
-#### Career changing to software engineer
-```Golang
+#### Software Engineer
+```Kotlin
 
-func main() {
-    myBio := Bio{
-        name: "Kyle",
-        pastEducation: "BA in Economics from Stony Brook University",
-        currentEducation: "Pursuing a BS in Computer Science from Oregon State",
-        graduationDate: "June 2023",
-        seeking: "Fulltime software engineer roles - willing to start before graduation date",
-        skills: "Python, JavaScript, Kotlin, SQL, React, Flask",
-        hobbies: "Brazilian Jiu Jitsu, Wrestling, Volunteering"
+fun main() {
+    class Bio(var name: String, var pastEducation: String, var currentEducation: String, var graduationDate: String, var seeking: String, var skills: String, var hobbies: String)
+    var myBio = Bio {
+        "Kyle",
+        "BA in Economics from Stony Brook University",
+        "Pursuing a BS in Computer Science from Oregon State",
+        "June 2023",
+        "Fulltime software engineer roles - willing to start before graduation date",
+        "Python, JavaScript, Kotlin, SQL, React, Flask",
+        "Brazilian Jiu Jitsu, Wrestling, Volunteering"
 }
 ```
 

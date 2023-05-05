@@ -18,7 +18,7 @@ func main() {
 
 ## Some stuff I'm working on!
 
--  I’m learning **Go(Golang) and SQL** this fall semester
+-  I’m learning **React and Kotlin/Android Development** this spring semester
 
 - 📝 Some of my projects are available [here](https://github.com/folkfrek?tab=repositories)
 

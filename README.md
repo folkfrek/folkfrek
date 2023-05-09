@@ -37,7 +37,7 @@ class MyBio {
 
 ## Some stuff I'm working on!
 
--  I’m focusing **improving my iOS development skills focusing on Swift UI* this spring semester
+-  I’m focusing ***improving my iOS development skills focusing on Swift UI*** this spring semester
 
 - 📝 Some of my projects are available [here](https://github.com/folkfrek?tab=repositories)
 

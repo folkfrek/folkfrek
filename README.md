@@ -17,7 +17,7 @@ class MyBio {
           let hobbies: String
         }
 
-        let kyle = Bio(
+        let kyle = Bio (
                     name: "Kyle",
                     pastEducation: "BA in Economics from Stony Brook University",
                     currentEducation: "Pursuing a BS in Computer Science from Oregon State",
@@ -41,10 +41,9 @@ class MyBio {
 
 - 📝 Some of my projects are available [here](https://github.com/folkfrek?tab=repositories)
 
-## I Work With...
+## 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folkfrek&show_icons=true&locale=en&layout=compact"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folkfrek&show_icons=true&locale=en"  /></p>
 

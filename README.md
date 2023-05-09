@@ -2,19 +2,21 @@
 
 #### Software Engineer
 ```Swift
+@main
+class MyBio {
+  static func main() {
+  
+       class Bio {
+          let name: String
+          let pastEducation: String
+          let currentEducation: String
+          let graduationDate: String
+          let seeking: String
+          let skills: String
+          let hobbies: String
+        }
 
-func main() {
-    class Bio {
-      let name: String
-      let pastEducation: String
-      let currentEducation: String
-      let graduationDate: String
-      let seeking: String
-      let skills: String
-      let hobbies: String
-    }
-    
-    let kyle = Bio(
+        let kyle = Bio(
                     name: "Kyle",
                     pastEducation: "BA in Economics from Stony Brook University",
                     currentEducation: "Pursuing a BS in Computer Science from Oregon State",
@@ -23,6 +25,11 @@ func main() {
                     skills: "Swift, SwiftUI, UIKit, Python, JavaScript, SQL, React, Flask",
                     hobbies: "Brazilian Jiu Jitsu, Wrestling, Volunteering"
                  )
+                 
+    }
+}
+
+   
 
 ```
 

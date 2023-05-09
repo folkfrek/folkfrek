@@ -4,6 +4,7 @@
 ```Swift
 @main
 class MyBio {
+
   static func main() {
   
        class Bio {
